@@ -1,2 +1,2 @@
 # chevah
-Public site
+Public site served from docs/
